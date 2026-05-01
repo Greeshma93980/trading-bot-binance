@@ -1,0 +1,12 @@
+# Credentials
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Logs (Optional: some prefer to keep logs out of git)
+# logs/bot.log

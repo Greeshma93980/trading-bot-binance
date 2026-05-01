@@ -1,0 +1,24 @@
+2026-05-01 22:26:04,914 | INFO | Order Request: BTCUSDT BUY MARKET
+2026-05-01 22:26:05,734 | ERROR | Error: API Secret required for private endpoints
+2026-05-01 22:27:38,336 | INFO | Order Request: BTCUSDT BUY MARKET
+2026-05-01 22:27:39,730 | ERROR | Error: APIError(code=-1022): Signature for this request is not valid.
+2026-05-01 22:32:36,181 | INFO | Order Request: BTCUSDT BUY MARKET
+2026-05-01 22:32:38,784 | INFO | Response: {}
+2026-05-01 22:34:16,875 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:35:18,494 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:35:20,518 | ERROR | Error: APIError(code=-1022): Signature for this request is not valid.
+2026-05-01 22:36:32,624 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:37:14,171 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:37:19,290 | INFO | Final Order: {'orderId': 13097106038, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'V6wQPVWXzIqoQMDshKlkNt', 'price': '0.00', 'avgPrice': '78145.700000', 'origQty': '0.0010', 'executedQty': '0.0010', 'cumQuote': '78.145700', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1777655236683, 'updateTime': 1777655236683}
+2026-05-01 22:39:58,888 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:40:00,743 | ERROR | Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 22:41:50,942 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:41:53,965 | ERROR | Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 22:50:39,020 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:50:40,758 | ERROR | Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 22:52:18,719 | INFO | Order Request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-05-01 22:52:21,221 | INFO | Final Order: {'orderId': 13097142524, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'qfTIFAAr7NjyNfaCcfwe8a', 'price': '0.00', 'avgPrice': '78245.200000', 'origQty': '0.0010', 'executedQty': '0.0010', 'cumQuote': '78.245200', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1777656139830, 'updateTime': 1777656139830}
+2026-05-01 22:53:48,624 | INFO | Order Request: BTCUSDT BUY LIMIT qty=0.001 price=75000.0
+2026-05-01 22:53:51,697 | INFO | Final Order: {'orderId': 13097146040, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'KNuWzLFXYsNwelZTU1stBJ', 'price': '75000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1777656229673, 'updateTime': 1777656229673}
+2026-05-01 23:00:01,763 | INFO | Order Request: BTCUSDT SELL MARKET qty=0.001 price=None
+2026-05-01 23:00:04,144 | INFO | Final Order: {'orderId': 13097160479, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'UlzqZ5WO6UzFbb5LmS2PuV', 'price': '0.00', 'avgPrice': '78150.100000', 'origQty': '0.0010', 'executedQty': '0.0010', 'cumQuote': '78.150100', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1777656602940, 'updateTime': 1777656602940}
